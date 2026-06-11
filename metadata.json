@@ -1,0 +1,6 @@
+{
+  "name": "Guía de Viaje a Roma",
+  "description": "Una guía de viaje premium para Roma interactiva y optimizada para dispositivos móviles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
